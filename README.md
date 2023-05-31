@@ -1,45 +1,45 @@
-|    Website Name     |  Website'sLink      |   
+|    Website Name     |  Website'sLink                                      |   
  ----------- | ------------| 
 
 
-|    `FlexJobs`         |    https:wwwflexjobcom/      |              
+|    `FlexJobs`         |    https:wwwflexjobcom/                         |              
 
 
-|    `UPlers`           |      https://www.uplers.com/    |            
-
-
-|   `We Work Remotely`  |       https://weworkremotely.com/ |      
-
-    
-|    `LeadMuster`       |        https://leadmuster.com/    |
-
-
-|    `Pangian`          |         https://pangian.com/      |
-
-
-|    `JustRemote`       |        https://justremote.co/      |
-
-
-|    `Remotive`         |          https://remotive.com/      |
-
-
-|    `Indeed`           |         https://in.indeed.com/?r=us    |
+|    `UPlers`           |      https://www.uplers.com/                    |            
  
 
-|    `Fiverr`           |         https://www.fiverr.com/        |
+|   `We Work Remotely`  |       https://weworkremotely.com/                    |      
+
+    
+|    `LeadMuster`       |        https://leadmuster.com/                      |
 
 
-|    `UpWork`           |         https://www.upwork.com/?utm_campaign=compan  |
+|    `Pangian`          |         https://pangian.com/                        |
+
+
+|    `JustRemote`       |        https://justremote.co/                       |
+
+
+|    `Remotive`         |          https://remotive.com/                      |
+
+
+|    `Indeed`           |         https://in.indeed.com/?r=us                 |
+ 
+
+|    `Fiverr`           |         https://www.fiverr.com/                     |
+
+
+|    `UpWork`           |         https://www.upwork.com/?utm_campaign=compan |
   
 
 
-|   `Working Nomands`   |           https://www.workingnomads.com/jobs    |
+|   `Working Nomands`   |           https://www.workingnomads.com/jobs        |
 
 
-|   `WorkFromHomeJobs`  |          https://workfromhomejobs.me/        |   
+|   `WorkFromHomeJobs`  |          https://workfromhomejobs.me/               |   
    
 
-|   `CrossOver`         |          https://www.crossover.com/          | 
+|   `CrossOver`         |          https://www.crossover.com/                 | 
 
 
 
